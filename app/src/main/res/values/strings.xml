@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Easy Android CTF</string>
+    <string name="full_flag">FL4G{flag1234}</string>
+    <string name="f14g_0n3">FL4G{flag1}</string>
+    <string name="fl4g_Tw0">PTF4Tdn3UtoexD3qUI81Tg==</string>
+    <string name="challenge_1">Challenge One</string>
+    <string name="challenge_2">Challenge Two</string>
+    <string name="challenge_3">Challenge Three</string>
+    <string name="challenge_4">Challenge Four</string>
+    <string name="submitButton">Submit</string>
+    <string name="enter_flag">Enter Flag</string>
+    <string name="get_flag">Get Flag</string>
+    <string name="hint_button">Hint</string>
+</resources>

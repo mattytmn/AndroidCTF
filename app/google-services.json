@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889646909230",
+    "project_id": "mattytmnctf",
+    "storage_bucket": "mattytmnctf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889646909230:android:c871f94184a8db36ba9cbf",
+        "android_client_info": {
+          "package_name": "com.mattytmn.easyandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889646909230-3gv9kg6chogn6ptshkm32o8qglb2nqaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPObr-8QeAx0WqC91-YP5I22UyaM_WJHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889646909230-3gv9kg6chogn6ptshkm32o8qglb2nqaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
